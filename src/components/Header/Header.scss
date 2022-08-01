@@ -1,0 +1,22 @@
+.header {
+  background-color: #E4B062;
+  position: fixed;
+  width: 100vw;
+  height: 118px;
+  left: 0px;
+  top: 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  &__logo{
+    margin-left: 41px;
+    margin-top: 27px;
+    margin-bottom: 28px;
+  }
+  &__auth {
+    margin-top: 31px;
+    margin-bottom: 31px;
+    margin-right: 45px;
+  }
+}

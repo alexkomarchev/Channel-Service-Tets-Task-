@@ -1,0 +1,10 @@
+.logo{
+  @media (max-width: 576px) {
+    display: none;
+  }
+}
+.logo_mobile{
+  @media (min-width: 576px) {
+    display: none;
+  }
+}

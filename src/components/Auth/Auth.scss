@@ -1,0 +1,32 @@
+
+.auth {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+  &__name {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-weight: bold;
+    line-height: 29.05px;
+    margin-right: 34px;
+    width: 390px;
+    height: 56px;
+    font-size: 24px;
+    @media (max-width: 768px) {
+      display: none;
+    }
+  }
+
+  &__icon * {
+    fill: rgba(39, 86, 156, 1);
+  }
+
+  &__icon {
+    height: 55px;
+    width: 51px;
+    cursor: pointer;
+  }
+}
