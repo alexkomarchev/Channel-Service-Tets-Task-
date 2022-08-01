@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/alexkomarchev.github.io/TestTask/static/css/main.dc6364f6.css",
+    "main.js": "/alexkomarchev.github.io/TestTask/static/js/main.d8aa9ab8.js",
+    "static/media/logo.svg": "/alexkomarchev.github.io/TestTask/static/media/logo.a7b8567175961001dc6010a6b57cf2ae.svg",
+    "static/media/logo_mobile.svg": "/alexkomarchev.github.io/TestTask/static/media/logo_mobile.55d870ac4027e86b6f6c59b8d9339983.svg",
+    "static/media/exit.svg": "/alexkomarchev.github.io/TestTask/static/media/exit.39d1e384fc28cd63da2bd607ad605ae0.svg",
+    "index.html": "/alexkomarchev.github.io/TestTask/index.html",
+    "main.dc6364f6.css.map": "/alexkomarchev.github.io/TestTask/static/css/main.dc6364f6.css.map",
+    "main.d8aa9ab8.js.map": "/alexkomarchev.github.io/TestTask/static/js/main.d8aa9ab8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc6364f6.css",
+    "static/js/main.d8aa9ab8.js"
+  ]
+}
