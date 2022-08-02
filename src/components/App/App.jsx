@@ -8,7 +8,7 @@ function App() {
     return (
         <div className="App">
             <Layout>
-                <Routes>
+                <Routes basename="/TestTask">
                     <Route path='/' element={<Main/>}/>
                     <Route path='/auth' element={<Auth/>}/>
                 </Routes>
