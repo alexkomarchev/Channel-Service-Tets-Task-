@@ -22,6 +22,8 @@ const userSlice = createSlice({
         deleteUser: (state) => {
             state.token = null;
             state.email = null;
+            localStorage.removeItem('token')
+            localStorage.removeItem('email')
         }
     }
 })
